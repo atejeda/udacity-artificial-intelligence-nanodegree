@@ -1,0 +1,56 @@
+Submission includes the following files:
+    my_air_cargo_problems.py
+    my_planning_graph.py
+    heuristic_analysis.pdf
+    research_review.pdf
+
+Uploading submission...
+[=========================== 100% ===========================] 423530/423530
+
+Waiting for results...Done!
+
+Results:
+--------
+
+************************************************************************
+                          Test Result Summary                           
+************************************************************************
+
+air_cargo_p1 returns the correct initial fluents                       .
+air_cargo_p1 returns the correct goal fluents                          .
+air_cargo_p1 returns an object of type problem                         .
+air_cargo_p1 returns the correct initial values                        .
+air_cargo_p2 returns the correct initial fluents                       .
+air_cargo_p2 returns the correct goal fluents                          .
+air_cargo_p2 returns an object of type problem                         .
+air_cargo_p2 returns the correct initial values                        .
+air_cargo_p3 returns the correct initial fluents                       .
+air_cargo_p3 returns the correct goal fluents                          .
+air_cargo_p3 returns an object of type problem                         .
+air_cargo_p3 returns the correct initial values                        .
+AirCargoProblem correctly lists possible actions in a given state      .
+AirCargoProblem correctly constructs all possible actions              .
+AirCargoProblem correctly updates state for a given action             .
+AirCargoProblem implements the ignore preconditions heuristic          .
+AirCargoProblem yields a correct solution when input to breadth_first  .
+Action levels have the correct number of actions                       .
+Literal levels have the correct number of literals                     .
+competing_needs_mutex behaves correctly                                .
+inconsistent_effects_mutex behaves correctly                           .
+inconsistent_support_mutex behaves correctly                           .
+interference_mutex behaves correctly                                   .
+negation_mutex behaves correctly                                       .
+Serialization of mutexes is correct                                    .
+levelsum heuristic behaves correctly                                   .
+
+--------------------------------------------------------------------------------
+
+Everything looks good!  If your code is well commented, feel free to submit to the reviewers and see what they have to say.
+(https://review.udacity.com/#!/rubrics/681/submit-zip)
+
+
+Details are available in cargo_planning-result-84884.json.
+
+If you would like this version of the project to be reviewed,
+submit cargo_planning-84884.zip to the reviews website.
+

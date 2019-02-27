@@ -1,0 +1,14 @@
+# this is convince myself.
+# this can allow to remove all values from the values[peer]
+# in case that values[peer] contains only the values[k] (digit)
+# means that len(values[peer] can be 0
+# e.g.: A1  B2  C3
+# 1)    1   123 123
+# 2)    1   23  23 # 1 removed by elimination
+# 3) assume that in B2 and C3 columns, 3 was removed by elimination
+# 4)    1   2   2
+# 5) in the next search/iteration the 2 in C3 will be eliminated
+#    causing inconsistency in the sudoku, and if a check is implemented
+#    e.g.: if len(values[peer]) > 1
+#    before the assign value, the sudoku will keep 2 twice, which is a
+#    contradictiona as well 

@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+ eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin t"
+predicted chars = 
+he matter a little prive manning a prisenal and the courner of the lord without out of the corners t"
+-------------------
+input chars = 
+yes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to "
+predicted chars = 
+the poors and the corners and the lary that which is thought the statter and were adverted to the li"
+-------------------
+input chars = 
+she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love"
+predicted chars = 
+r it last the burden a can from his lang the remest for she little mary is to setter and concectiona"

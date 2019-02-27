@@ -1,0 +1,35 @@
+[NbConvertApp] Converting notebook RNN_project.ipynb to html
+[NbConvertApp] Writing 509548 bytes to RNN_project.html
+Submission includes the following files:
+    my_answers.py
+    RNN_project.ipynb
+    RNN_project.html
+
+Uploading submission...
+[=========================== 100% ===========================] 749234/749234
+
+Waiting for results...Done!
+
+Results:
+--------
+
+************************************************************************
+                          Test Result Summary                           
+************************************************************************
+
+Step 1: Implement a function to window time series                     .
+Step 2: Create a simple RNN model for regression                       .
+Step 3: Clean up a large text corpus                                   .
+Step 4: Implement a function to window a large text corpus             .
+Step 5: Create an RNN to perform multiclass classification             .
+
+--------------------------------------------------------------------------------
+
+Everything looks good!  If your code is well commented, feel free to submit to the reviewers and see what they have to say.
+(https://review.udacity.com/#!/rubrics/806/submit-zip)
+
+
+Details are available in rnn-result-172765.json.
+
+If you would like this version of the project to be reviewed,
+submit rnn-172765.zip to the reviews website.
